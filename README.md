@@ -1,5 +1,7 @@
 # Hi, I'm Erin Young.
 
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7535--006X-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7535-006X)
+
 ### Bioinformatician | Regional Technical Lead | Open Source Contributor
 
 I am a **Senior Data Scientist and Technical Lead** specializing in high-throughput genomic data engineering. Currently, I serve as the Bioinformatics Regional Resource for the Mountain West, architecting scalable, reproducible workflows for public health surveillance.
@@ -47,4 +49,3 @@ A community-driven repository for **reproducible bioinformatics containers**.
 * [LinkedIn](https://www.linkedin.com/in/erin-young)
 * [ORCID](https://orcid.org/0000-0002-7535-006X)
 
-![Erin's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=erinyoung&theme=graywhite&hide_border=true)
