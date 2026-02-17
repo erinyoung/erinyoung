@@ -47,4 +47,4 @@ A community-driven repository for **reproducible bioinformatics containers**.
 * [LinkedIn](https://www.linkedin.com/in/erin-young)
 * [ORCID](https://orcid.org/0000-0002-7535-006X)
 
-![Erin's GitHub stats](https://github-readme-stats.vercel.app/api?username=erinyoung&show_icons=false&theme=graywhite&hide_border=true)
+![Erin's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=erinyoung&theme=graywhite&hide_border=true)
