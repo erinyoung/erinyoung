@@ -1,11 +1,50 @@
-# Greetings!
+# Hi, I'm Erin Young.
 
-I work at the Utah Public Health Laboratory as a Bioinformatician.
+### Bioinformatician | Regional Technical Lead | Open Source Contributor
 
-I mostly work in the linux (centos and ubuntu) command line (shell).
+I am a **Senior Data Scientist and Technical Lead** specializing in high-throughput genomic data engineering. Currently, I serve as the Bioinformatics Regional Resource for the Mountain West, architecting scalable, reproducible workflows for public health surveillance.
 
-I have written a few packages in python, but mostly I cobble bioinformatic tools together into nextflow workflows.
+My work focuses on **workflow orchestration** (Nextflow), **containerization** (Docker/Singularity), and **cloud infrastructure** (AWS) to turn petabytes of raw sequencing data into actionable epidemiological insights.
 
-I'd like to learn rust, but haven't found the time. 
+---
 
-I'm almost always open for collaboration.
+### Technical Stack
+
+* **Languages:** Python (Pandas, Scipy, PySAM), R, Groovy, Bash
+* **Workflow Orchestration:** Nextflow (DSL2), Snakemake, WDL
+* **Infrastructure:** Docker, Singularity, AWS (Batch, S3, HealthOmics), GitHub Actions
+* **Data Engineering:** ETL pipeline design, algorithmic benchmarking, metadata governance
+
+---
+
+### Featured Projects
+
+#### [Cecret](https://github.com/UPHL-BioNGS/Cecret)
+**Role:** Lead Architect & Maintainer
+The standard-of-care **SARS-CoV-2 sequencing pipeline** used by the CDC and public health laboratories across the US.
+* **Tech:** Nextflow, Docker, Singularity, AWS Batch.
+* **Scale:** Orchestrates alignment, variant calling, and lineage classification for thousands of concurrent samples.
+* **Impact:** CLIA-validated and deployed for real-time genomic surveillance.
+
+#### [HeatCluster](https://github.com/DrB-S/heatcluster)
+**Role:** Lead Maintainer
+A command-line tool for **Unsupervised Machine Learning** in genomic epidemiology.
+* **Tech:** Python, Scikit-learn (PCA, Silhouette Analysis), Fastcluster.
+* **ML Features:** Uses **Auto-K optimization** to mathematically identify lineage thresholds and **PCA** for cluster validation.
+* **Performance:** Optimized $O(N^2)$ clustering for large-scale distance matrices.
+
+#### [StaPH-B](https://github.com/StaPH-B/docker-builds)
+**Role:** Core Maintainer
+A community-driven repository for **reproducible bioinformatics containers**.
+* **Tech:** Docker, GitHub Actions CI/CD.
+* **Impact:** Solves the "it works on my machine" problem by providing version-controlled, public-health-grade images.
+
+
+---
+
+### Connect
+
+* [LinkedIn](https://www.linkedin.com/in/erin-young)
+* [ORCID](https://orcid.org/0000-0002-7535-006X)
+
+![Erin's GitHub stats](https://github-readme-stats.vercel.app/api?username=erinyoung&show_icons=false&theme=graywhite&hide_border=true)
